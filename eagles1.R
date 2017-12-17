@@ -2,4 +2,5 @@ library(MASS)
 library(rethinking)
 library(ggplot2)
 data(eagles)
-library(tidyverse)
+eag <- eagles
+
